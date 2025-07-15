@@ -13,4 +13,17 @@ form {
   margin: 20px auto;
 }
 
-/*# sourceMappingURL=styles.css.map */
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: .8rem;
+  width: 100%;
+  margin: .5rem 0;
+}
+
+.gender {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
